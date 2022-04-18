@@ -25,7 +25,7 @@ SECRET_KEY = '+*$8a^kz8%tz#)h!o8h7vnzan-6=gbi1+u3_$1g0fe)$k@5hwb'
 # SECURITY WARNING: don't run with debug tur.ned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dimati.pythonanywhere.com', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['dimati.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
