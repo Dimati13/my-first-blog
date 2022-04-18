@@ -22,10 +22,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '+*$8a^kz8%tz#)h!o8h7vnzan-6=gbi1+u3_$1g0fe)$k@5hwb'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+# SECURITY WARNING: don't run with debug tur.ned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dimati.pythonanywhere.com', '127.0.0.1:8000']
 
 
 # Application definition
